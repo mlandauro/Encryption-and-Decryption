@@ -2,7 +2,8 @@
 ## Micaela Landauro
 ### UTD CS 2340 Spring 2022
 This project was one of my final projects in my Computer Architecture Course
-\\I made this program and run it on the MARS MIPS simulator
+
+I made this program and run it on the MARS MIPS simulator
 
 ### DESCRIPTION
   The main focus of this project was to encrypt or decrypt a given file with a given key
